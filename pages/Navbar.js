@@ -20,7 +20,9 @@ export default function Navbar(props) {
     <>
       <div  className={navstyle.maincontainer}>
         <div className={navstyle.container1}>
+                  <div className={navstyle.logo}>
           <img src={props.image} alt="icon" className={navstyle.image} />
+            </div>
           <p>{brandName}</p>
         </div>
         <div className={navstyle.container2}>
