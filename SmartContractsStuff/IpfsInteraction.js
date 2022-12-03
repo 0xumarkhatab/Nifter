@@ -14,7 +14,7 @@ function embedGateway(_hash) {
     hash = _hash.slice(9);
   }
   //   console.log("modified hash is", hash);
-  let link = "https://ipfs.io/ipfs/" + hash;
+  let link = "https://gateway.pinata.cloud/ipfs/" + hash;
   //   console.log("returning link ", link);
   return link;
 }
