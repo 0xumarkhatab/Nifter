@@ -21,7 +21,8 @@
 }
 .image{
   width:6vw;
-  
+  height:40px;
+  object-fit:contain;
 }
 /* --------------------------------- */
 
