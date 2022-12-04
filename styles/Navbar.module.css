@@ -20,15 +20,15 @@
   
 }
 .logo{
-  width:110px;
+  width:100px;
+  height:40px;
   boreder-radius:50%;
   
 }
 .image{
-  width:100px;
-  height:40px;
+  width:99px;
+  height:38px;
   object-fit:contain;
-  boreder-radius:50%;
   
 }
 /* --------------------------------- */
