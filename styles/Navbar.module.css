@@ -19,11 +19,19 @@
   display:flex;
   
 }
+.logo{
+  width:100px;
+  height:50px;
+object-fit:contain;
+  boreder-radius:50%;
+  
+}
 .image{
-  width:6vw;
+  width:100px;
   height:40px;
   object-fit:contain;
   boreder-radius:50%;
+  
 }
 /* --------------------------------- */
 
